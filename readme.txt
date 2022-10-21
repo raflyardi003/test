@@ -1,7 +1,7 @@
-#hallo world 
+#Hallo Dunia
 
 i learn about git
 and i made an change on this 
 
-#i made change on github 
+#Hallo World 
 
